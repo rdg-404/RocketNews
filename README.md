@@ -4,4 +4,4 @@
 <img src="./assets/screenshots/desktop.png">
 
 
-<p>Desenvolvido por [Rodrigo Paiva](https://github.com/rdg-404)</p>
+Desenvolvido por [Rodrigo Paiva](https://github.com/rdg-404)
